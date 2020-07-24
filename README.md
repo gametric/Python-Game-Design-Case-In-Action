@@ -25,3 +25,6 @@
 - 11.4_push_box.py
 - 12.4_majiang_two.py
 - 13.3_snake_food.py
+- 14.3_black_white.py
+- 15.4_find_mines.py
+- 16.4_chinese_chess.py
